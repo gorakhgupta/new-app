@@ -1,0 +1,12 @@
+.pay-now {
+    width: 14rem;
+    max-width: 14rem;
+    padding: 10px;
+    border-radius: 20px;
+    outline: 1px solid black;
+    color: white;
+    text-align: center;
+    background-color: dodgerblue !important;
+    outline: none;
+    margin: auto;
+}
